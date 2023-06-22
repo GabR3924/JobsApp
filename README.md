@@ -1,11 +1,11 @@
 # Expo Router Example
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+<img src='./Neon%20gradient%20mobile%20mockup%20instagram%20post%20.png'/>
 
 ## 🚀 How to use
 
 ```sh
-npx create-expo-app -e with-router
+expo-cli start --tunnel
 ```
 
 ## 📝 Notes
