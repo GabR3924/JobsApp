@@ -1,4 +1,4 @@
-# Expo Router Example
+# Job App
 
 <img src='./Neon%20gradient%20mobile%20mockup%20instagram%20post%20.png'/>
 
